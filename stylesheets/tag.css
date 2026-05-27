@@ -1,0 +1,76 @@
+.tag {
+  display: inline-block;
+  padding: 4px 12px;
+  margin: 2px 4px 2px 0;
+  font-size: 0.85em;
+  font-weight: 500;
+  line-height: 1.6;
+  border-radius: 16px;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.tag:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 适用对象标签 */
+
+.tag-target {
+  background-color: #E3F2FD;
+  color: #1565C0;
+}
+
+/* 信息类别标签 */
+
+.tag-category {
+  background-color: #E8F5E9;
+  color: #2E7D32;
+}
+
+/* 时效性标签 */
+
+.tag-priority {
+  background-color: #FFF3E0;
+  color: #E65100;
+}
+
+/* 已截止标签样式（灰色） */
+
+.tag-finished {
+  background-color: #E0E0E0 !important;
+  color: #757575 !important;
+  opacity: 0.7;
+}
+
+/* 暗色主题适配 */
+
+[data-md-color-scheme="slate"] .tag-target {
+  background-color: rgba(33, 150, 243, 0.2);
+  color: #90CAF9;
+}
+
+[data-md-color-scheme="slate"] .tag-category {
+  background-color: rgba(76, 175, 80, 0.2);
+  color: #81C784;
+}
+
+[data-md-color-scheme="slate"] .tag-priority {
+  background-color: rgba(255, 152, 0, 0.2);
+  color: #FFB74D;
+}
+
+[data-md-color-scheme="slate"] .tag-finished {
+  background-color: rgba(158, 158, 158, 0.2);
+  color: #757575;
+}
+
+/* 响应式设计 */
+
+@media screen and (max-width: 768px) {
+  .tag {
+    font-size: 0.75em;
+    padding: 3px 10px;
+  }
+}

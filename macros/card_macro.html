@@ -1,0 +1,35 @@
+{% macro render_cards(cards) %}
+{% set cards_with_ddl = [] %}
+{% set cards_without_ddl = [] %}
+{% for item in cards %}
+{% if item.ddl %}
+{% set _ = cards_with_ddl.append(item) %}
+{% else %}
+{% set _ = cards_without_ddl.append(item) %}
+{% endif %}
+{% endfor %}
+{% for item in cards_with_ddl|sort(attribute='ddl', reverse=True) + cards_without_ddl %}
+<div class='card'>
+  <div class="dot"></div>
+  <div class="snapshot">
+    <div class="title">{{ item.title }}</div>
+    {% if item.ddl %}
+        <div class="deadline" data-deadline="{{ item.ddl }}"></div>
+    {% endif %}
+    {% if item.tags %}
+    <div class="card-tags">
+      {% for tag in item.tags %}
+      <span class="tag {{ tag.class }}">{{ tag.text }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+    <div class="detail">
+      <text>{{ item.detail }}</text>
+    </div>
+  </div>
+  <a href="{{ item.href }}">
+    <div class="details">→</div>
+  </a>
+</div>
+{% endfor %}
+{% endmacro %}
