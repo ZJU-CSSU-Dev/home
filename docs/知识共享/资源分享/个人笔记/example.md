@@ -44,5 +44,3 @@
 | [Vim操作整理](./assets/周小童-Vim操作整理.pdf) | Vim，pdf |
 | [HowJul.&本科](https://www.yuque.com/howjul/rt9ms6)/[HowJul的学习笔记](https://note.howjul.com/) |个人笔记|
 | [os-note](./assets/林然-os-note.pdf) | os |
-|||
-|||

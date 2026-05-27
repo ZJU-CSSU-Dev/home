@@ -9,6 +9,14 @@ cards:
         class: tag-category
       - text: 紧急
         class: tag-priority
+  - ddl: 2026-05-31
+    title: 计算机学院第六届“竞计杯”师生篮球赛
+    detail: 比赛时间：2026 年 6 月 6 日，比赛地点：紫金港校区风雨操场篮球场，参赛对象：计算机学院全体本科生、研究生、博士后及教师，详见推文，有意者填写报名链接，自由组队可扫码加入组队群
+    href: https://mp.weixin.qq.com/s/20WQZThAEe7b5ll6IsZwdw
+    tags:
+      - text: 体育赛事
+        class: tag-category
+
 ---
 
 
