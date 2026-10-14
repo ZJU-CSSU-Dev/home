@@ -104,6 +104,34 @@ cards:
     tags:
       - text: 求是大讲堂
         class: tag-category
+  - ddl: 2026-10-14
+    title: 考研择校&时间规划分享会
+    detail: 为帮助大家更好地明确考研目标、掌握科学的备考方法，一支部特举办本次考研择校与时间规划分享会，活动将在【10月14日19:00】于钉钉群线上举行，特邀具有丰富择校备考经验的王道资深教师和考研前辈学长为大家分享择校信息差、冲刺备考时间线安排等经验，请有意向参加的同学点击下方链接加入钉钉群，欢迎大家参加！
+    href: https://qr.dingtalk.com/action/joingroup?code=v1,k1,zKYD72XA6xxtiqwVrCMpEDhLUp0gEVeHYX35CACHtPqdR7ksupjDEA==&_dt_no_comment=1&origin=1
+    tags: 
+      - text: 考研
+        class: tag-category
+  - ddl: 2026-10-16
+    title: 读研深造现场咨询会
+    detail: 为帮助更多本科学子了解读研深造相关信息、明确未来目标，研究生院将联合各学院（系）在紫金港校区举办现场咨询会。各院系咨询介绍包括研招政策、研招流程、学科专业、历年情况、奖助政策、国际交流、就业前景等。活动时间：2026年10月16日（周五）12：00-14：00。活动地点：紫金港校区西区尧坤楼二楼大厅。报名链接：
+    href: https://v.wjx.cn/vm/tAbKGG9.aspx
+    tags: 
+      - text: 读研深造
+        class: tag-category
+  - ddl: 2026-10-19
+    title: 巴黎政治大学宣讲会
+    detail: 巴黎政治大学宣讲会将于2026年10月19日（周一）16:00在紫金港东1A-215举办，主要面向全日制在读本科生及研究生，详见：
+    href: https://mp.weixin.qq.com/s/LowQeuX7Uf3QUGJ9-qscGA
+    tags: 
+      - text: 宣讲会
+        class: tag-category
+  - ddl: 2026-10-20
+    title: 瑞典皇家理工学院“3+2”本硕联合培养项目宣讲会
+    detail: 瑞典皇家理工学院“3+2”本硕联合培养项目宣讲会10月20日（周二）13:30在玉泉校区李达三楼223室举办，主要面向全日制在读本科生，有意向参加“3+2”本硕联合培养项目的同学，详见：
+    href: https://mp.weixin.qq.com/s/uGsWmO3RB5ImGGN_uvnVWQ
+    tags: 
+      - text: 宣讲会
+        class: tag-category
 ---
 
 !!! note 通知
