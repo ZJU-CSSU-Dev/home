@@ -63,6 +63,13 @@ cards:
     tags: 
       - text: 专业交流会
         class: tag-category
+  - ddl: 2026-10-16
+    title: 2027届毕业生重点行业专场双选会 （信息类专场）
+    detail: 2027届毕业生重点行业专场双选会 （信息类专场）于10月16日（本周五）下午13:30在玉泉校区邵体馆、永谦剧场门厅举行，欢迎参加：
+    href: https://mp.weixin.qq.com/s/fK7Iv_IoFvjJ5fvIoHBStA
+    tags: 
+      - text: 毕业生就业，双选会
+        class: tag-category
 ---
 
 !!! note 通知

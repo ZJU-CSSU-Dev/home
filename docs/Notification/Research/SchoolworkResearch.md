@@ -132,6 +132,20 @@ cards:
     tags: 
       - text: 宣讲会
         class: tag-category
+  - ddl: 2026-10-19
+    title: 中国科学院工业人工智能研究所2027研究生招生宣讲会
+    detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。
+    href: https://piaw6bgb.jsjform.com/f/UQfldP
+    tags: 
+      - text: 研究生招生，宣讲会
+        class: tag-category
+  - ddl: 2026-10-25
+    title: 浙客松・AI+X 破界黑客松赛事报名
+    detail: 【赛事报名｜浙客松・AI+X 破界黑客松】总奖池 27500 元▪10.13 天猫初赛 【线上开启，自由命题】▪10.18 华为初赛 【线下开启，企业命题】▪10.19‑23 线上复赛▪10.25 线下决赛 10.18开设技术论坛，邀请CTO与学者分享10.25开设创业论坛，邀请各大资本创始人分享。添加拓浙AI小助手，邀请进群：Tuozheai123。备注：姓名➕专业➕年级。报名网站：
+    href: https://tuotuzju.com/hackathon/2
+    tags: 
+      - text: 研究生招生，宣讲会
+        class: tag-category
 ---
 
 !!! note 通知
