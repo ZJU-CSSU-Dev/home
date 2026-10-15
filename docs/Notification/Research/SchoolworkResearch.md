@@ -109,7 +109,7 @@ cards:
     detail: 为帮助大家更好地明确考研目标、掌握科学的备考方法，一支部特举办本次考研择校与时间规划分享会，活动将在【10月14日19:00】于钉钉群线上举行，特邀具有丰富择校备考经验的王道资深教师和考研前辈学长为大家分享择校信息差、冲刺备考时间线安排等经验，请有意向参加的同学点击下方链接加入钉钉群，欢迎大家参加！
     href: https://qr.dingtalk.com/action/joingroup?code=v1,k1,zKYD72XA6xxtiqwVrCMpEDhLUp0gEVeHYX35CACHtPqdR7ksupjDEA==&_dt_no_comment=1&origin=1
     tags: 
-      - text: 考研
+      - text: 考研   
         class: tag-category
   - ddl: 2026-10-16
     title: 读研深造现场咨询会
