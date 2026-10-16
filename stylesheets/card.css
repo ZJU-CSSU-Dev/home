@@ -1,0 +1,140 @@
+/* 卡片容器 */
+.card {
+  position: relative;
+  display: flex;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid #edd;
+  border-radius: 8px;
+  margin: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 左侧圆点 - 活跃状态 */
+.card .dot {
+  width: 8px;
+  height: 8px;
+  background: #1890ff;
+  border-radius: 50%;
+  margin-top: 8px;
+  flex-shrink: 0;
+}
+
+/* 左侧圆点 - 已截止状态 */
+.card .dot.expired {
+  width: 8px;
+  height: 8px;
+  background: #c5c6c7;
+  border-radius: 50%;
+  margin-top: 8px;
+}
+
+/* 截止日期文本 */
+.card .deadline {
+  color: #353535;
+  font-size: 14px;
+  transition: color 0.3s;
+}
+
+/* 主要内容区域 */
+.card .snapshot {
+  flex: 1;
+  min-width: 0;
+}
+
+/* 标题样式 */
+.card .title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+/* 卡片内标签容器 */
+.card .card-tags {
+  margin: 8px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+/* 详细信息容器 */
+.card .detail {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 90%;
+}
+
+/* 详细信息文本 */
+.card .detail text {
+  flex: 1;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+}
+
+/* 右侧箭头定位 */
+.card .details {
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  color: #172dd8;
+  transition: color 0.3s ease;
+}
+
+.card:hover .details {
+  color: #0d47a1;
+}
+
+/* 暗色主题适配 */
+[data-md-color-scheme="slate"] .card {
+  border-color: #444;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+[data-md-color-scheme="slate"] .card .title {
+  color: #e0e0e0;
+}
+
+[data-md-color-scheme="slate"] .card .deadline {
+  color: #b0b0b0;
+}
+
+[data-md-color-scheme="slate"] .card .detail text {
+  color: #999;
+}
+
+[data-md-color-scheme="slate"] .card .details {
+  color: #5c9dff;
+}
+
+/* 响应式设计 */
+@media screen and (max-width: 768px) {
+  .card {
+    padding: 12px;
+    margin: 8px;
+  }
+
+  .card .title {
+    font-size: 14px;
+  }
+
+  .card .detail text {
+    font-size: 13px;
+  }
+
+  .card .details {
+    font-size: 20px;
+    right: 12px;
+  }
+}
