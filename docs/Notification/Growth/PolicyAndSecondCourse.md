@@ -313,12 +313,19 @@ cards:
     tags:
       - text: 文体
         class: tag-category
-  - ddl: 2026-12-31
-    title: 安顿身心正念冥想体验
-    detail: 各位同学，秋冬学期每周四下午固定为大家开设【安顿身心正念冥想体验】，欢迎大家参与，还能加二课分～
-    href: https://mp.weixin.qq.com/s/oi-Myxu8iemdH0XTuugnsA
+  - ddl: 2026-10-24
+    title: 1024程序员节
+    detail: 1024程序员节即将到来，趣味知识竞赛等你来玩，初赛只需参与10月24日钉钉群内线上答题，不涉及深奥的底层原理或复杂的算法推导，但蕴含浓厚的计算机科学风味。决赛将于本周日（10.25）线下举行，多重赛制等你来玩，趣味题目不烧心[加油]欢迎参加！
+    href: https://mp.weixin.qq.com/s/hzJjiVpiq1Vctxrur5duuw
     tags:
-      - text: 心理
+      - text: 二课分
+        class: tag-category
+  - ddl: 2026-10-23
+    title: 党务知识技能大赛
+    detail: “关于举办浙江大学第十届本科生党员党务知识技能大赛的通知”已发布，由党委学生工作部主办，外国语学院、生物医学工程与仪器科学学院承办预赛、竺可桢学院承办决赛。请有意向参赛的同学向自己的辅导员私信报名
+    href: http://www.xgb.zju.edu.cn/2026/1022/c53018a3217740/page.psp
+    tags:
+      - text: 比赛
         class: tag-category
 ---
 

@@ -86,6 +86,13 @@ cards:
     tags:
       - text: 就业
         class: tag-category
+  - ddl: 
+    title: 第十期“简历门诊+模拟面试”活动
+    detail: 第十期“简历门诊+模拟面试”活动即将开启，为计学院学生带来就业实习、简历制作、面试经验等方面的指导。欢迎大家参加！
+    href: https://mp.weixin.qq.com/s/LU38Buk5SQbek6sbly2bfg
+    tags:
+      - text: 就业
+        class: tag-category
 ---
 
 !!! note 通知
