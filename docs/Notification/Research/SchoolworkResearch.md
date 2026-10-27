@@ -1,5 +1,26 @@
 ---
 cards:
+  - title: 玉泉校区邵科馆午餐食堂已开通
+    detail: 玉泉校区邵科馆现已开通午餐食堂，供附近师生用餐，有需要的同学可于午餐时间前往，详情见推文。
+    href: https://mp.weixin.qq.com/s/IaJQ8wxp0y8uUPO36qzUIA
+    tags:
+      - text: 校园服务
+        class: tag-category
+      - text: 食堂
+        class: tag-category
+      - text: 玉泉校区
+        class: tag-target
+  - ddl: 2026-10-28
+    title: 牛津大学展望计划注册访问生项目宣讲会
+    detail: 宣讲会将于2026年10月28日（周三）19:30在腾讯会议线上举行，主要面向全日制在读本科生，欢迎有意向出国深造的同学关注，详情见推文。
+    href: https://mp.weixin.qq.com/s/fWnCHtzGmN-RUI-9bmZz3Q
+    tags:
+      - text: 留学深造
+        class: tag-category
+      - text: 宣讲会
+        class: tag-category
+      - text: 本科生
+        class: tag-target
   - ddl: 2026-10-19
     title: 中国科学院工业人工智能研究所2027研究生招生宣讲
     detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。

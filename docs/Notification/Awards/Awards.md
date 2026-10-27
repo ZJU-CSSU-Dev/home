@@ -1,5 +1,33 @@
 ---
 cards:
+  - ddl: 2026-11-08
+    title: 第四届浙江大学十佳志愿者之星、优秀志愿者评选
+    detail: 校团委开展第四届浙江大学十佳志愿者之星评选，计算机学院有17个优秀志愿者名额。志愿服务时数达250小时以上的同学可踊跃报名，尚未评定五星级志愿者也可报名，截止时间为11月8日。
+    href: https://webplus.zju.edu.cn/_s484/2026/1027/c27178a3219450/page.psp
+    tags:
+      - text: 荣誉评选
+        class: tag-category
+      - text: 志愿者
+        class: tag-category
+  - ddl: 2026-10-31
+    title: 关于评选2025-2026学年校外设奖学金、院设奖学金的通知
+    detail: 请有意向的本科生于10月31日18:00前填写申请问卷。本科生学业进步奖学金也在本次评选范围内，不单独评选，请按通知要求申请；如有问题，可咨询赵宇飞老师。
+    href: http://cspo.zju.edu.cn/2026/1027/c27183a3219542/page.htm
+    tags:
+      - text: 奖学金
+        class: tag-category
+      - text: 本科生
+        class: tag-target
+  - title: 关于公示2025-2026学年本科生浙江省政府奖学金拟评选名单的通知
+    detail: 2025-2026学年本科生浙江省政府奖学金拟评选名单已公示，请相关同学查看学院通知。
+    href: http://cspo.zju.edu.cn/2026/1027/c27183a3219545/page.htm
+    tags:
+      - text: 奖学金
+        class: tag-category
+      - text: 公示
+        class: tag-category
+      - text: 本科生
+        class: tag-target
   - ddl: 2026-10-18
     title: 关于做好2026-2027学年秋冬学期校内无息借款相关工作的通知
     detail: 请有需要的同学于10月18日24:00前在eta提交申请，具体要求见通知。
