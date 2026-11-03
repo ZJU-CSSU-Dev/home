@@ -70,6 +70,13 @@ cards:
     tags: 
       - text: 毕业生就业，双选会
         class: tag-category
+  - ddl: 2026-11-20
+    title: “访企拓岗专项行动”将在11月20日前往谷歌中国上海办公室
+    detail: 数智创新与就业战略指导平台组织的“访企拓岗专项行动”将在11月20日前往谷歌中国上海办公室，欢迎平台成员单位的2028届学生参与。 活动报名 | 浙江大学管理学院“知行寰宇”系列活动——申城探业·2026秋
+    href: https://mp.weixin.qq.com/s/T1KuDm9eQzmdV2ZJdg-k0Q
+    tags: 
+      - text: 毕业生就业
+        class: tag-category
 ---
 
 !!! note 通知

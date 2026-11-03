@@ -51,6 +51,42 @@ cards:
     tags: 
       - text: 选课
         class: tag-category        
+  - ddl: 2026-11-06
+    title: 2026-2027学年秋冬学期本科课程第四轮选课
+    detail: 秋冬学期第四轮选课将于本周五上午9点开始，请有需要的同学及时关注：
+    href: https://bksy.zju.edu.cn/2026/1102/c76672a3221471/page.htm
+    tags: 
+      - text: 选课
+        class: tag-category
+      - text: 重要
+        class: tag-priority
+  - ddl: 2026-11-03
+    title: 前沿培养模式问卷调查
+    detail: 亲爱的同学们，人才培养质量提升是学校高质量发展的核心基础。为进一步深化高等教育综合改革，促进科教融汇、产教融合，促使“会读书的人”成为“会创造的人”，我们诚挚邀请您参与前沿培养模式问卷调查。请根据您对学校教育教学的了解情况和学习科研实际进行回答。本调查实行匿名填写，所有数据仅用于学术研究，且严格保密，请放心填写。感谢您对我校人才培养事业作出的贡献和对本次调研的支持！问卷链接：
+    href: https://v.wjx.cn/vm/ruDPE9E.aspx
+    tags: 
+      - text: 问卷调查
+        class: tag-category
+      - text: 重要
+        class: tag-priority
+  - ddl: 2026-11-07
+    title: 秋冬长学期课程在线申请放弃修读
+    detail: 关于2026-2027学年秋冬长学期课程在线申请放弃修读的通知：
+    href: https://bksy.zju.edu.cn/2026/1102/c76672a3221501/page.htm
+    tags: 
+      - text: 选课
+        class: tag-category
+      - text: 重要
+        class: tag-priority
+  - ddl: 2026-11-08
+    title: 秋学期本科课程考试
+    detail: 2026-2027学年秋学期本科课程考试将于2026年11月7-8日、14-15日进行，请有考试的同学关注，诚信参加考试：
+    href: https://bksy.zju.edu.cn/2026/1102/c76672a3221805/page.htm
+    tags: 
+      - text: 选课
+        class: tag-category
+      - text: 重要
+        class: tag-priority
 ---
 
 !!! note 通知
