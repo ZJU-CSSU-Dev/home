@@ -1,5 +1,12 @@
 ---
 cards:
+  - ddl: 2026-11-06
+    title: LSE伦敦政治经济学院暑期学校项目宣讲会
+    detail: 11月6日（本周五）下午15:00-16:00，成均苑1幢105举办LSE暑期学校项目宣讲会，主讲人为LSE教授，介绍项目详情与申请要求，对国际交流、暑期访学感兴趣的同学欢迎参加。
+    href: https://mp.weixin.qq.com/s/vWmKnw4VQEO8tjN0jcrtQg
+    tags:
+      - text: 对外交流
+        class: tag-category
   - ddl: 2026-10-27
     title: 乔治华盛顿大学研究生项目宣讲会
     detail: 乔治华盛顿大学研究生项目宣讲会将于2026年10月27日（周二）16：00在线上ZOOM举办，主要面向全日制在读本科生及研究生，有意向出国深造的同学。
