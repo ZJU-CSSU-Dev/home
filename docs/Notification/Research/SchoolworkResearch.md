@@ -1,5 +1,26 @@
 ---
 cards:
+  - ddl: 2026-11-06
+    title: LSE伦敦政治经济学院暑期学校项目宣讲会
+    detail: 11月6日（本周五）下午15:00-16:00，成均苑1幢105举办LSE暑期学校项目宣讲会，主讲人为LSE教授，介绍项目详情与申请要求，对国际交流、暑期访学感兴趣的同学欢迎参加。
+    href: https://mp.weixin.qq.com/s/vWmKnw4VQEO8tjN0jcrtQg
+    tags:
+      - text: 对外交流
+        class: tag-category
+  - ddl: 2026-10-27
+    title: 乔治华盛顿大学研究生项目宣讲会
+    detail: 乔治华盛顿大学研究生项目宣讲会将于2026年10月27日（周二）16：00在线上ZOOM举办，主要面向全日制在读本科生及研究生，有意向出国深造的同学。
+    href: https://mp.weixin.qq.com/s?__biz=MzIxODI4MzU5Nw==&mid=2247541016&idx=1&sn=72076a9bd512755d43c6d382b477183b&chksm=9683e064ce1c9d439c8c5d9673a1ef02346a254096f151b34639a1d9f0ad35d9d245df729546&mpshare=1&scene=1&srcid=1026tQ00V80OmUkLpHsJvMEO&sharer_shareinfo=22087f1d41dc2bd4f5f522079c0d4732&sharer_shareinfo_first=22087f1d41dc2bd4f5f522079c0d4732#rd
+    tags:
+      - text: 出国深造
+        class: tag-category
+  - ddl: 2026-10-28
+    title: 可持续发展全球挑战赛及茅锐教授粮食韧性主题线上讲座
+    detail: 明年5月我校将主办可持续发展全球挑战赛总决赛，目前赛事正在报名中，11月底截止。粮食韧性（Food Resilience）是赛事主题之一。我校作为创始成员高校，邀请公共管理学院茅锐教授于北京时间10月28日16:00作在线讲座，介绍“全球变化背景下的粮食韧性——从粮食系统的冲击到可推广的解决方案”，请感兴趣的同学关注讲座、关注赛事。
+    href: https://mp.weixin.qq.com/s/-Kf6kb_dBBdHwUpvkCX11w
+    tags:
+      - text: 赛事讲座
+        class: tag-category
   - ddl: 2026-10-19
     title: 中国科学院工业人工智能研究所2027研究生招生宣讲
     detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。
