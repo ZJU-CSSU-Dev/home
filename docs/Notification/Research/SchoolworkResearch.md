@@ -1,5 +1,14 @@
 ---
 cards:
+  - ddl: 2026-11-11
+    title: 2027年全国硕士研究生招生考试考研调查问卷
+    detail: 为做好2027年全国硕士研究生招生考试相关工作，现面向今年拟参加考研的学生开展问卷调查。请准备参加考研的同学于11月11日前完成填写，点击右侧箭头查看问卷二维码，可使用手机端或电脑端扫码。
+    href: /home/Notification/Research/image/20261105PostgraduateSurvey.png
+    tags:
+      - text: 考研
+        class: tag-category
+      - text: 问卷调查
+        class: tag-category
   - title: 玉泉校区邵科馆午餐食堂已开通
     detail: 玉泉校区邵科馆现已开通午餐食堂，供附近师生用餐，有需要的同学可于午餐时间前往，详情见推文。
     href: https://mp.weixin.qq.com/s/IaJQ8wxp0y8uUPO36qzUIA
