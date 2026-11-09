@@ -327,6 +327,13 @@ cards:
     tags:
       - text: 比赛
         class: tag-category
+  - ddl: 
+    title: 计算机学院和人工智能学院第七期“云创计划”启动报名
+    detail: 新一期“云创计划”在延续原有培养特色的基础上，进一步丰富培养形式、完善支持机制。欢迎有创新创业项目的同学报名，“云创计划”将为你的项目提供进一步的指导与赋能；也欢迎对创新创业感兴趣、暂时还没有项目的同学报名，“云创计划”将为你提供参与实验室科技成果转化项目的实践机会，助力你在真实项目中积累经验、探索创新创业。
+    href: https://mp.weixin.qq.com/s/EhhOpyacM9y0rB5u3y7fqQ
+    tags:
+      - text: 比赛
+        class: tag-category
 ---
 
 !!! note 通知

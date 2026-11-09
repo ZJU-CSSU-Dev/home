@@ -81,6 +81,20 @@ cards:
     tags:
       - text: 补选
         class: tag-category
+  - ddl: 2026-11-22
+    title: 关于2026-2027学年秋冬长学期课程在线申请放弃修读的通知
+    detail: 请务必在11月23日（周一）后及时查询审核结果，以免因各种原因放弃修读不成功而遗漏上课。请充分考虑当前修读课程学分总数及推迟修读可能带来的不便因素，申请放弃修读务必慎重！
+    href:
+    tags:
+      - text: 弃修
+        class: tag-category
+  - ddl:
+    title: 关于申报第二十二期学生资助对象教育实践项目（NSEP）的通知
+    detail: 
+    href: http://cspo.zju.edu.cn/2026/1109/c27184a3224467/page.htm
+    tags:
+      - text: 资助
+        class: tag-category
 ---
 
 !!! note 通知
