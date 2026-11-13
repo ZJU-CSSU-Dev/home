@@ -1,18 +1,18 @@
 ---
 cards:
-  - ddl: 2026-10-19
-    title: 中国科学院工业人工智能研究所2027研究生招生宣讲
-    detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。
-    href: https://piaw6bgb.jsjform.com/f/UQfldP
-    tags:
-      - text: 研究生招生，考研，宣讲会
-        class: tag-category
   - ddl: 2026-11-22
     title: 第二届 Global Sustainability Challenge (GSC，可持续发展全球挑战赛)报名
     detail: 区域赛将于2027年2-3月分别在香港科技大学(亚太)、印度理工学院孟买分校(南亚)、慕尼黑工业大学(欧非)、斯坦福大学(北美)、圣保罗州立大学(南美)举行。全球总决赛将于2027年5月在浙江大学举办。两大主题： 1.可持续能源 Sustainable Energy; 2.适应与韧性Adaptation& Resilience (水; 粮食韧性;高温韧性)欢迎感兴趣的同学组队参加。和全球青年一起，向未来作答！
     href: https://mp.weixin.qq.com/s/l05rRvI1sQ2Joft3kRKegg
     tags:
       - text: 竞赛
+        class: tag-category
+  - ddl: 2026-10-26
+    title: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会
+    detail: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会将于2026年10月26日（周一）12:00在线上ZOOM举办，主要面向全日制在读本科生、硕士生，毕业后意向出国深造的同学。
+    href: https://mp.weixin.qq.com/s/3QfacCurm5MMUzl7v71YsA
+    tags:
+      - text: 对外交流
         class: tag-category
   - ddl: 2026-10-25
     title: 浙客松・AI+X 破界黑客松赛事报名
@@ -40,7 +40,7 @@ cards:
     detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。
     href: https://piaw6bgb.jsjform.com/f/UQfldP
     tags:
-      - text: 研究生招生，宣讲会
+      - text: 研究生招生，考研，宣讲会
         class: tag-category
   - ddl: 2026-10-16
     title: 读研深造现场咨询会
@@ -79,7 +79,6 @@ cards:
     tags:
       - text: 朋辈辅学
         class: tag-category
-
   - ddl: 2026-09-30
     title: 关于填写国庆去向的通知
     detail: 目前仍有100余位同学未填写国庆去向统计，请尽快填写。目前仍有100余位同学未填写国庆去向统计，请尽快填写。
@@ -238,16 +237,9 @@ cards:
   - ddl:
     title: 新学期计算机学院朋辈辅学正式启动
     detail: 有需要的同学请在钉钉群中直接扫码加入各个辅导班的钉钉群。预计从下周就开始辅导啦，欢迎所有想要提升课业成绩的同学加群,让我们一起进步～
-    href: 
+    href:
     tags:
       - text: 朋辈辅学
-        class: tag-category
-  - ddl: 2026-10-26
-    title: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会
-    detail: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会将于2026年10月26日（周一）12:00在线上ZOOM举办，主要面向全日制在读本科生、硕士生，毕业后意向出国深造的同学。
-    href: https://mp.weixin.qq.com/s/3QfacCurm5MMUzl7v71YsA
-    tags:
-      - text: 对外交流
         class: tag-category
 ---
 

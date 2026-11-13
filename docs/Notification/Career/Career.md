@@ -1,5 +1,19 @@
 ---
 cards:
+  - ddl: 2026-11-20
+    title: “访企拓岗专项行动”将在11月20日前往谷歌中国上海办公室
+    detail: 数智创新与就业战略指导平台组织的“访企拓岗专项行动”将在11月20日前往谷歌中国上海办公室，欢迎平台成员单位的2028届学生参与。 活动报名 | 浙江大学管理学院“知行寰宇”系列活动——申城探业·2026秋
+    href: https://mp.weixin.qq.com/s/T1KuDm9eQzmdV2ZJdg-k0Q
+    tags:
+      - text: 毕业生就业
+        class: tag-category
+  - ddl: 2026-10-17
+    title: 重要国央企等在永谦剧场门厅举行综合招聘会
+    detail: 各位同学好，今天（10月17日）13：30开始重要国央企等在永谦剧场门厅举行综合招聘会，企业名单见通知链接，欢迎同学们积极参与！
+    href: https://mp.weixin.qq.com/s/tf76nTEeMnsQItyiLDsmSw
+    tags:
+      - text: 就业
+        class: tag-category
   - ddl: 2026-10-16
     title: 2027届毕业生重点行业专场双选会 （信息类专场）
     detail: 2027届毕业生重点行业专场双选会 （信息类专场）于10月16日（本周五）下午13:30在玉泉校区邵体馆、永谦剧场门厅举行，欢迎参加：
@@ -79,14 +93,7 @@ cards:
         class: tag-category
       - text: 2022级
         class: tag-target
-  - ddl: 2026-10-17
-    title: 重要国央企等在永谦剧场门厅举行综合招聘会
-    detail: 各位同学好，今天（10月17日）13：30开始重要国央企等在永谦剧场门厅举行综合招聘会，企业名单见通知链接，欢迎同学们积极参与！
-    href: https://mp.weixin.qq.com/s/tf76nTEeMnsQItyiLDsmSw
-    tags:
-      - text: 就业
-        class: tag-category
-  - ddl: 
+  - ddl:
     title: 第十期“简历门诊+模拟面试”活动
     detail: 第十期“简历门诊+模拟面试”活动即将开启，为计学院学生带来就业实习、简历制作、面试经验等方面的指导。欢迎大家参加！
     href: https://mp.weixin.qq.com/s/LU38Buk5SQbek6sbly2bfg
