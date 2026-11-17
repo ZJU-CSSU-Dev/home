@@ -236,6 +236,15 @@ cards:
         class: tag-category
       - text: 本科生
         class: tag-target
+  - ddl:
+    title: 关于第四届浙江大学十佳志愿者之星、优秀志愿者拟推荐名单的公示
+    detail: 第四届浙江大学十佳志愿者之星、优秀志愿者拟推荐名单已公示，具体名单及公示安排请查看原通知。
+    href: https://webplus.zju.edu.cn/_s484/2026/1111/c27178a3225595/page.psp
+    tags:
+      - text: 评奖评优
+        class: tag-category
+      - text: 志愿服务
+        class: tag-category
 ---
 
 ---
