@@ -1,18 +1,25 @@
 ---
 cards:
-  - ddl: 2026-10-19
-    title: 中国科学院工业人工智能研究所2027研究生招生宣讲
-    detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。
-    href: https://piaw6bgb.jsjform.com/f/UQfldP
-    tags:
-      - text: 研究生招生，考研，宣讲会
-        class: tag-category
   - ddl: 2026-11-22
     title: 第二届 Global Sustainability Challenge (GSC，可持续发展全球挑战赛)报名
     detail: 区域赛将于2027年2-3月分别在香港科技大学(亚太)、印度理工学院孟买分校(南亚)、慕尼黑工业大学(欧非)、斯坦福大学(北美)、圣保罗州立大学(南美)举行。全球总决赛将于2027年5月在浙江大学举办。两大主题： 1.可持续能源 Sustainable Energy; 2.适应与韧性Adaptation& Resilience (水; 粮食韧性;高温韧性)欢迎感兴趣的同学组队参加。和全球青年一起，向未来作答！
     href: https://mp.weixin.qq.com/s/l05rRvI1sQ2Joft3kRKegg
     tags:
       - text: 竞赛
+        class: tag-category
+  - ddl: 2026-11-11
+    title: 2026年脑机智能全国重点实验室学术年会
+    detail: 年会安排于11月12日在杭州市余杭区温德姆花园酒店举行，设有学术报告、海报展示和交流环节。报名已于11月11日14:00截止，点击右侧可查看原海报及会议日程。
+    href: /home/Notification/Research/image/20261112BrainMachineIntelligence.jpg
+    tags:
+      - text: 学术会议
+        class: tag-category
+  - ddl: 2026-10-26
+    title: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会
+    detail: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会将于2026年10月26日（周一）12:00在线上ZOOM举办，主要面向全日制在读本科生、硕士生，毕业后意向出国深造的同学。
+    href: https://mp.weixin.qq.com/s/3QfacCurm5MMUzl7v71YsA
+    tags:
+      - text: 对外交流
         class: tag-category
   - ddl: 2026-10-25
     title: 浙客松・AI+X 破界黑客松赛事报名
@@ -27,6 +34,13 @@ cards:
     href: https://mp.weixin.qq.com/s/uGsWmO3RB5ImGGN_uvnVWQ
     tags:
       - text: 宣讲会
+        class: tag-category
+  - ddl: 2026-10-19
+    title: 中国科学院工业人工智能研究所2027研究生招生宣讲
+    detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。
+    href: https://piaw6bgb.jsjform.com/f/UQfldP
+    tags:
+      - text: 研究生招生，考研，宣讲会
         class: tag-category
   - ddl: 2026-10-19
     title: 巴黎政治大学宣讲会
@@ -242,12 +256,12 @@ cards:
     tags:
       - text: 朋辈辅学
         class: tag-category
-  - ddl: 2026-10-26
-    title: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会
-    detail: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会将于2026年10月26日（周一）12:00在线上ZOOM举办，主要面向全日制在读本科生、硕士生，毕业后意向出国深造的同学。
-    href: https://mp.weixin.qq.com/s/3QfacCurm5MMUzl7v71YsA
+  - ddl:
+    title: 浙江大学未来学习中心新一轮学生入驻团队招募
+    detail: 浙江大学未来学习中心面向学生团队开展新一轮入驻招募。申请条件及流程见右侧通知，中心介绍可查看<a href="https://mp.weixin.qq.com/s/iBl_zgjuNq5iT8oltrRPGw">微信公众号推文</a>。
+    href: http://kyjs.zju.edu.cn/preview/detail?newsId=10310&typeName=%E9%87%8D%E7%82%B9%E6%8F%90%E7%A4%BA
     tags:
-      - text: 对外交流
+      - text: 团队招募
         class: tag-category
 ---
 
